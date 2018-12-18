@@ -6,5 +6,7 @@ Github
 ETL
 Informatica
 
+SQL
+Oracle
 
 thank you
