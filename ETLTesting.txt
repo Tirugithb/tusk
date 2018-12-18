@@ -4,3 +4,4 @@ Welcome to ETL Testing GITHUB
 
 Github
 ETL
+Informatica
